@@ -1,0 +1,13 @@
+{
+  "name": "wnoteam-system",
+  "version": "1.0.0",
+  "description": "WNO Team Management System",
+  "main": "index.html",
+  "scripts": {
+    "start": "node server.js",
+    "build": "echo 'Building static site'"
+  },
+  "keywords": [],
+  "author": "Emad Arafa",
+  "license": "MIT"
+}
