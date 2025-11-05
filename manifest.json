@@ -1,0 +1,35 @@
+{
+    "name": "WNO Team Management",
+    "short_name": "WNO System",
+    "description": "نظام إدارة فريق WNO في Orange Egypt",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#1f1c2c",
+    "theme_color": "#ffcc00",
+    "orientation": "portrait-primary",
+    "lang": "ar",
+    "dir": "rtl",
+    "icons": [
+        {
+            "src": "https://i.ibb.co/WvjnRhRk/logo.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "https://i.ibb.co/WvjnRhRk/logo.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "categories": ["business", "productivity"],
+    "screenshots": [
+        {
+            "src": "https://via.placeholder.com/640x320/1f1c2c/ffcc00?text=WNO+System",
+            "sizes": "640x320",
+            "type": "image/png",
+            "form_factor": "wide"
+        }
+    ]
+}
